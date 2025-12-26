@@ -1,0 +1,472 @@
+
+Warehouse Data - Date: 2023-09-17
+Import Receipt(s):
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-17
+Import Receipt(s):
+Import Receipt - Code: 0000001
+Import Date: 2023-09-17
+Product [code='done', name='Three', manufacturingDate=Mon Dec 12 00:00:00 ICT 1099, expirationDate=Tue Apr 04 00:00:00 ICT 1111, quantity=90]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-17
+Import Receipt(s):
+Import Receipt - Code: 0000001
+Import Date: 2023-09-17
+Product [code='done', name='Three', manufacturingDate=Mon Dec 12 00:00:00 ICT 1099, expirationDate=Tue Apr 04 00:00:00 ICT 1111, quantity=90]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000001
+Import Date: 2023-09-17
+Product [code='done', name='Three', manufacturingDate=Mon Dec 12 00:00:00 ICT 1099, expirationDate=Tue Apr 04 00:00:00 ICT 1111, quantity=90]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000001
+Import Date: 2023-09-17
+Product [code='done', name='Three', manufacturingDate=Mon Dec 12 00:00:00 ICT 1099, expirationDate=Tue Apr 04 00:00:00 ICT 1111, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='03', name='Three', manufacturingDate=Wed Nov 11 00:00:00 ICT 11, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=4]
+
+
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-20
+Product [code='01', name='One', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=1]
+
+
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000001
+Import Date: 2023-09-17
+Product [code='done', name='Three', manufacturingDate=Mon Dec 12 00:00:00 ICT 1099, expirationDate=Tue Apr 04 00:00:00 ICT 1111, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='03', name='Three', manufacturingDate=Wed Nov 11 00:00:00 ICT 11, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=4]
+
+
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-20
+Product [code='01', name='One', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=1]
+
+
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000001
+Import Date: 2023-09-17
+Product [code='done', name='Three', manufacturingDate=Mon Dec 12 00:00:00 ICT 1099, expirationDate=Tue Apr 04 00:00:00 ICT 1111, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='03', name='Three', manufacturingDate=Wed Nov 11 00:00:00 ICT 11, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=4]
+
+
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-20
+Product [code='01', name='One', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=1]
+
+
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='One', manufacturingDate=Mon Dec 12 00:00:00 ICT 12, expirationDate=Tue Dec 13 00:00:00 ICT 12, quantity=40]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='One', manufacturingDate=Mon Dec 12 00:00:00 ICT 12, expirationDate=Tue Dec 13 00:00:00 ICT 12, quantity=40]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='One', manufacturingDate=Mon Dec 12 00:00:00 ICT 12, expirationDate=Wed Dec 14 00:00:00 ICT 12, quantity=90]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=90]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=190]
+
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='09', name='null', manufacturingDate=null, expirationDate=null, quantity=0]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=190]
+
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='09', name='null', manufacturingDate=null, expirationDate=null, quantity=0]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=190]
+
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='09', name='null', manufacturingDate=null, expirationDate=null, quantity=0]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='01', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=190]
+
+Product [code='null', name='null', manufacturingDate=null, expirationDate=null, quantity=90]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='09', name='null', manufacturingDate=null, expirationDate=null, quantity=0]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Mon Dec 12 00:00:00 ICT 12, quantity=24]
+
+Product [code='3', name='three', manufacturingDate=Wed Dec 12 00:00:00 ICT 1900, expirationDate=Thu Dec 12 00:00:00 ICT 1991, quantity=490]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=123]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=123]
+
+
+Import Receipt - Code: 0000001
+Import Date: 2023-09-20
+Product [code='2', name='two', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=30]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=135]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=124]
+
+
+Import Receipt - Code: 0000001
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=125]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=123]
+
+
+Import Receipt - Code: 0000001
+Import Date: 2023-09-20
+Product [code='2', name='two', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=30]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=135]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=124]
+
+
+Import Receipt - Code: 0000001
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=125]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=135]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=135]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=135]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='55', name='ooo', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=44]
+
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+Product [code='1', name='one', manufacturingDate=Thu Dec 01 00:00:00 ICT 12, expirationDate=Tue Dec 12 00:00:00 ICT 13, quantity=135]
+
+
+Import Receipt - Code: 0000001
+Import Date: 2023-09-20
+Product [code='4', name='rrr', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=4]
+
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-20
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+
+Import Receipt - Code: 0000000
+Import Date: 2023-09-20
+
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Export Receipt(s):
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=12]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=16]
+
+
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=12]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=16]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='2', name='two', manufacturingDate=Thu Feb 02 00:00:00 ICT 2, expirationDate=Sat Mar 03 00:00:00 ICT 3, quantity=10]
+
+
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=12]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=16]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='2', name='two', manufacturingDate=Thu Feb 02 00:00:00 ICT 2, expirationDate=Sat Mar 03 00:00:00 ICT 3, quantity=10]
+
+
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+s
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=203]
+
+
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=12]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=16]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='2', name='two', manufacturingDate=Thu Feb 02 00:00:00 ICT 2, expirationDate=Sat Mar 03 00:00:00 ICT 3, quantity=10]
+
+
+
+Warehouse Data - Date: 2023-09-22
+Import Receipt(s):
+s
+Import Receipt - Code: 0000000
+Import Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=203]
+
+
+Export Receipt(s):
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=12]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='1', name='ONBE', manufacturingDate=Sat Jan 01 00:00:00 ICT 1, expirationDate=Thu Feb 02 00:00:00 ICT 2, quantity=16]
+
+
+Export Receipt - Code: 11000001
+Export Date: 2023-09-22
+Product [code='2', name='two', manufacturingDate=Thu Feb 02 00:00:00 ICT 2, expirationDate=Sat Mar 03 00:00:00 ICT 3, quantity=10]
+
+
